@@ -37,5 +37,5 @@ nes
 
 ## For developers
 
-The `nes` command runs the following script: [bin/nes](bin/nes) which calls
+The `nes` command runs the following script: [bin/nes](bin/nes) which in turn calls the `main()` function of [nes/main.py](./nes/main.py)
 
